@@ -1,7 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fe05d84-b6aa-4e17-bb89-24ae5977e836" name="Default Changelist" comment="" />
+    <list default="true" id="1fe05d84-b6aa-4e17-bb89-24ae5977e836" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Livewire/ImageUpload.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Livewire/ImageUpload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a101d--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a1628--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a1a1a--A001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a1dd3--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a2178--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a2792--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f295a2b4f--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a449d--Golfstation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a4adf--Serie3berlina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a5063--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a55f2--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a609a--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a642e--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/2021-04-28/6088f3e9a67a6--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293e861c--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293e8ea2--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293e9445--A001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293e982d--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293e9c4f--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293ea18f--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/public/6088f293e4f402021-04-28/6088f293ea5d1--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/image-upload.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/image-upload.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/57IWIn4pWJu6TbllaDfLGf4qG3QEH3-meta6rmA67OR6ri47KO87ZWELmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/AdJoB1wpLJ9lI1vIUMrdGb2sjxG83Q-metaaXBob25lLWJsdWUucG5n-.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/J4veIiYL36PkaSIwaYSnUeSiAZpxmt-metabWVudWltYWdlLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/lX20kSaG7lwU3AMUpER09qo020fc8e-metaR3JhblR1cmlzbW8uanBn-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/lrGF0Z3UfLsj4p7V0L2l0K43CsEXBR-metaYXBwbGUtd2F0Y2gtc2VyaWVzLTQtMTkyMHgxMDgwLXM0LWFwcGxlLXNlcHRlbWJlci0yMDE4LWV2ZW50LTIwMzQ0LmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/livewire-tmp/uXUTvA1G7EZgoZzV5Z2bm1vjsNNf1Q-metaUXVhdHRyb3BvcnRlLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a101d--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a1628--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a1a1a--A001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a1dd3--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a2178--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a2792--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f295a2b4f--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a449d--Golfstation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a4adf--Serie3berlina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a5063--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a55f2--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a609a--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a642e--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/2021-04-28/6088f3e9a67a6--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293e861c--Giulietta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293e8ea2--ar-15-assault-rifle-3840x2160-ar-15-assault-rifle-8138.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293e9445--A001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293e982d--02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293e9c4f--15259216537884654357.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293ea18f--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/app/public/6088f293e4f402021-04-28/6088f293ea5d1--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eae8c2--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eaee47--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eaf21e--Quattroporte.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eaf56c--apple-watch-series-4-1920x1080-s4-apple-september-2018-event-20344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eaf959--iphone-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/2021-04-28/6088f21eafd83--GranTurismo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c42293--menuimage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c42abf--김병길주필.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c42de2--Quattroporte.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c43101--apple-watch-series-4-1920x1080-s4-apple-september-2018-event-20344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c43624--iphone-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/6088f21c3f52e2021-04-28/6088f21c438fd--GranTurismo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/1yDzJRHuVvAFJtnU89MZpRUosmLnlf-metabWVudWltYWdlLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/5d4Z4AjA7hS8sXs4vD7fL8RXhZ4nw9-metaR2l1bGlldHRhLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/F4wXULF1I42MbYBIRH7MSU0RW3TmHA-metaMTUyNTkyMTY1Mzc4ODQ2NTQzNTcuanBn-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/KxQHU3vuI7YLTnl4tjQoT2DvGdGZZA-metaU2VyaWUgMyBiZXJsaW5hLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/YClIPPSSmXlXdJke6OPHD9GOpkbUWX-metaQTAwMS5qcGc=-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/fA2hp43LQIgkW0K5fzIh2ibZ9cuFjl-metabWVudWltYWdlLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/fnjZOWEeN6E9U65AO0dn9xac4ZGp9v-metaR2l1bGlldHRhLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/gKP1RNp2JO2iKfx9xyPcLDOwZoYf3Q-metaMTUyNTkyMTY1Mzc4ODQ2NTQzNTcuanBn-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/juINITpmznrQgqZayjT8EgZB0ExHHX-metaMDIuZ2lm-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/kAvWUnQYYyNDpboknaGEtqXUYh5m0K-metaR29sZiBzdGF0aW9uLmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/kr9t84mWbvWlGKvh6m6Uul7qlgSChc-metaMDIuZ2lm-.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/mSmRNKtSyiJzsnYtKDr87IHvuts0pD-metaQTAwMS5qcGc=-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/mheWuZ02ecyuHd8sHpRMZL2eR046lm-metaYXItMTUtYXNzYXVsdC1yaWZsZS0zODQweDIxNjAtYXItMTUtYXNzYXVsdC1yaWZsZS04MTM4LmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/wOvZ0NMdDsMHHa3BKOQzX9ocfEmNmd-meta6rmA67OR6ri47KO87ZWELmpwZw==-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/public/livewire-tmp/x1vnE2S65mFnekzcmpwFcwa88zskmi-metaYXItMTUtYXNzYXVsdC1yaWZsZS0zODQweDIxNjAtYXItMTUtYXNzYXVsdC1yaWZsZS04MTM4LmpwZw==-.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +107,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -139,6 +223,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1rePwkYhRvx1sTvI21yjpfNpRmG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -146,9 +231,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
   </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="LaravelStorm_run_conf_serve" factoryName="Laravel">
@@ -174,7 +261,7 @@
       <workItem from="1619348724830" duration="1611000" />
       <workItem from="1619350369178" duration="4750000" />
       <workItem from="1619375800159" duration="17492000" />
-      <workItem from="1619512069278" duration="17409000" />
+      <workItem from="1619512069278" duration="24265000" />
     </task>
     <servers />
   </component>
@@ -211,13 +298,17 @@
     </state>
     <state x="681" y="293" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1619433133501" />
     <state x="1021" y="453" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619334343078" />
+    <state x="461" y="166" key="SettingsEditor" timestamp="1619588601857">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="166" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1619588601857" />
     <state x="629" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1619350368965">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="629" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619350368965" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619587913674">
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619588805096">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1619587913674" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1619588805096" />
   </component>
 </project>
